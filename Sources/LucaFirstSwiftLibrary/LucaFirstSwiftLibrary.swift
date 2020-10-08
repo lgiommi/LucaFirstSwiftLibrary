@@ -1,6 +1,6 @@
-public struct MyFirstSwiftLibrary {
+public struct LucaFirstSwiftLibrary {
     var text = "Hello, World!"
 }
-public func MyFirstSwiftLibraryFunc() -> String {
-  return "Hello from the MyFirstSwiftLibraryFunc"
+public func LucaFirstSwiftLibraryFunc() -> String {
+  return "Hello from the LucaFirstSwiftLibraryFunc"
 }
